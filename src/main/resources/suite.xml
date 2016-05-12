@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="true" thread-count="{{threadCount}}"
+       data-provider-thread-count="{{dataProviderThreadCount}}"
+       name="Functional tests Sample Package">
+    <test name="all">
+        <groups>
+            <run>
+                <include name="{{testGroup}}"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.acenhauer.corball.tests.*"></package>
+        </packages>
+    </test>
+</suite>
