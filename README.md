@@ -1,7 +1,7 @@
 # Corball Demo
 Corball demo - The test automation demo. You will need a Saucelabs account if you want to enjoy this demo.
 
-Corball also support local WebDriver/Appium executions
+Corball also support local WebDriver/Appium executions and it is based on the Corball Core (https://github.com/Acenhauer/corball-demo)
 
 # WebDriver Demo
 You can execute an automated google search using the following command:
