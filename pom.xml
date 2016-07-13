@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.acenhauer.corball</groupId>
     <artifactId>corball-demo</artifactId>
-    <version>16.05.10</version>
+    <version>16.06.28</version>
     <name>Corball Test Automation Demo</name>
     <description>Corball Demo - The Demo for the Automation Framework</description>
     <url>https://github.com/Acenhauer/corball/</url>
